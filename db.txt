@@ -1,0 +1,1 @@
+server=MASTERSTORM-PC ; database=ScanDB ; integrated security = true
