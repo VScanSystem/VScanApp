@@ -3,6 +3,9 @@ System to scan and analyze vulnerabilities in a corporate network
 
 Developed by Marcelo Martins Ferreira
 
+Testing Video Link: 
+https://youtu.be/mNG5Lkxqyq8
+
      
 The system is a desktop application based on Win Forms that uses the Nmap API, open source libraries that allow the scanning of corporate networks and the Internet to detect vulnerable ports on each computer, our implementation will use this API.
 
