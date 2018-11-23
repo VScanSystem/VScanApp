@@ -3,11 +3,12 @@ System to scan and analyze vulnerabilities in a corporate network
 
 Developed by Marcelo Martins Ferreira
 
-     The system is a desktop application based on Win Forms that uses the Nmap API, open source libraries that allow the scanning of corporate networks and the Internet to detect vulnerable ports on each computer, our implementation will use this API.
+     
+The system is a desktop application based on Win Forms that uses the Nmap API, open source libraries that allow the scanning of corporate networks and the Internet to detect vulnerable ports on each computer, our implementation will use this API.
 
-     The Graphical User Interface (GUI) has a main scan module, one for maintenance, and one for configuration and one for reports to take a history of each scan to a corporate network and store this information in our SQL database.
+The Graphical User Interface (GUI) has a main scan module, one for maintenance, and one for configuration and one for reports to take a history of each scan to a corporate network and store this information in our SQL database.
 
-     The analysis of the information in the database will allow us to have a history of vulnerabilities that have been scanned and corrected, as well as to prevent possible attacks in the future.
+The analysis of the information in the database will allow us to have a history of vulnerabilities that have been scanned and corrected, as well as to prevent possible attacks in the future.
 
 
 This section describes the constraints in the system design: 
